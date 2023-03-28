@@ -9,7 +9,7 @@ The code provided is just one example for 4-acetamidophenol material at 300 line
 
  
 
-The user should first download the code and extract the data from the folder "reference wavenumber spectra" folder such that it can be accessed by the matlab files. The various m files are explained as follows:
+The user should first load the data from the mat file containing 2x100 raw spectra, which reduced to 100 spectra following cosmis ray removal by comparing pixels.
 
  
 
